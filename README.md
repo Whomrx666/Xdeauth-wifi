@@ -7,8 +7,8 @@ Xdeauth-wifi is a tool used to carry out DDOS attacks on a WiFi or is usually ca
 ## Instalations
 ```
 $ apt update -y && apt upgrade -y
-$ pkg install git
-$ pkg install python -y
+$ apt install git
+$ apt install python3 -y
 $ git clone https://github.com/Whomrx666/Xdeauth-wifi 
 $ cd Xdeauth-wifi 
 $ python3 Xdeauth-wifi.py
