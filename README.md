@@ -34,6 +34,10 @@ The brand of wireless adapter that I use is Tp-link Tl-wn722N version 1.10 {supp
 - **four**: Automatic tools scan existing networks
 - **last**: Select the network you want to turn off according to the existing number, then the tool will automatically deauth the network until it turns off
 
+### Need tutorial video!
+[Click here](https://t.me/WeAreOne_4/4151/6116)
+
+
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
 ### Original Author
